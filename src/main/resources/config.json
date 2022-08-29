@@ -1,0 +1,26 @@
+{
+  "token": "",
+  "guild": 
+
+  "mongo_legacy": true,
+  "mongo_host": "",
+  "mongo_port": 27017,
+  "mongo_database": "SupportBot",
+  "mongo_auth": false,
+  "mongo_username": "Username",
+  "mongo_password": "Password",
+
+  "transcripts_channel": 
+
+  "player_report_category": 
+  "payment_issues_category": 
+  "ban_appeal_category": 
+  "staff_application_category": 
+  "other_category": 
+
+  "player_report_role": 
+  "payment_issues_role": 
+  "ban_appeal_role": 
+  "staff_application_role": 
+  "support_role": 
+}
